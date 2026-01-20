@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+.env
+sql_app.db
+*.log
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+dist/
+build/
+*.webp
+*.png
+check_services.py
+check_qdrant.py
+run_and_test.py
